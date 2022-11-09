@@ -353,6 +353,8 @@ header{
 	margin-top: 50px;
 	margin-bottom: 50px;
 	font-size: 25px;
+	font-family: 'Cormorat', serif;
+	padding:50px;
 	
 #text{
 	display: flex;
