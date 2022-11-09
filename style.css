@@ -346,8 +346,9 @@ header{
 	font-size: 25px;
 }
 
-.description{
+.description p{
 	text-align: justify;
+	display: block;
 	width: 100%;
 	padding-left: 80px;
 	padding-right: 80px;
